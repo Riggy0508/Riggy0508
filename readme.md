@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif))]
 <h1 align="center">Hi 👋, I'm Rigved Patil</h1>
 <h3 align="center">A passionate Software Developer based in United States</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
