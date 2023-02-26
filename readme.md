@@ -1,5 +1,5 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hello Word 🌎, This is Rigved Patil👨🏻‍💻</h1>
+<h1 align="center">Hello Word 🌎, I am Rigved 👨🏻‍💻</h1>
 <h3 align="center">A passionate Software Developer based in United States</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1910217/screenshots/5425631/media/a1b2c7acf2cfb626551cdf5fd3a7ee08.gif">
 
