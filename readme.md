@@ -1,21 +1,18 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hi 👋, I'm Rigved Patil</h1>
+<h1 align="center">Hello Word 🌎, This is Rigved Patil👨🏻‍💻</h1>
 <h3 align="center">A passionate Software Developer based in United States</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1910217/screenshots/5425631/media/a1b2c7acf2cfb626551cdf5fd3a7ee08.gif">
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riggy0508&label=Profile%20views&color=0e75b6&style=flat" alt="riggy0508" /> </p>
+
 
 - 🔭 I’m currently working on [Prytaneum](https://prytaneum.io/)
 
-- 🌱 I’m currently learning **kubernetes, Socket.IO, WebRTC**
+- 🌱 I’m currently learning **Socket.IO, WebRTC, Ruby, Vue.JS**
 
 - 👯 I’m looking to collaborate on [Video-Streaming Service](https://github.com/Riggy0508/Video-Streaming-Platform-with-chat)
 
-- 🤝 I’m looking for help with [Video-Streaming Services](https://github.com/Riggy0508/Video-Streaming-Platform-with-chat)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Riggy0508](https://github.com/Riggy0508)
-
-- 📝 I regularly write articles on [https://portfolio-riggy0508.vercel.app/](https://portfolio-riggy0508.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Python, C#, Express.JS**
 
