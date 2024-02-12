@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rigved.patil1@gmail.com**
 
-#- 📄 Know about my experiences [https://drive.google.com/file/d/1W8ZQIH_Xkv-4SVthDmvnxF3CBWeK70Cj/view](https://drive.google.com/file/d/1W8ZQIH_Xkv-4SVthDmvnxF3CBWeK70Cj/view)
+<!--- - 📄 Know about my experiences [https://drive.google.com/file/d/1W8ZQIH_Xkv-4SVthDmvnxF3CBWeK70Cj/view](https://drive.google.com/file/d/1W8ZQIH_Xkv-4SVthDmvnxF3CBWeK70Cj/view) -->
 
 - ⚡ Fun fact **A Shrimp's heart is in it's head**
 
