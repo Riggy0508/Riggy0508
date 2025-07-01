@@ -36,5 +36,3 @@ I believe coding is like cardio for the brain – it keeps you disciplined, crea
 <!-- Keep your existing language and tools section here -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riggy0508&show_icons=true&locale=en&layout=compact" alt="riggy0508" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riggy0508&" alt="riggy0508" /></p>
